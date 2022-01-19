@@ -1,6 +1,6 @@
 # L-System
 ## Présentation du projet
-- Ce projet à été fait dans le cours de structure de donnée qui simule le développement de plantes et d’autres formes.
+- Ce projet à été fait en **Java** dans le cours de structure de donnée qui simule le développement de plantes et d’autres formes.
 - L'application .jar prend dans la ligne de commande un fichier JSON et un nombre d'itérations (int) et met l'output dans un fichier .eps spécifié.
 ### Exemple
 ```json
